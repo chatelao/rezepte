@@ -1,4 +1,4 @@
-Cuacamole Rezept
+Guacamole Rezept
 ##################
 
 Wesentliche Zutaten
