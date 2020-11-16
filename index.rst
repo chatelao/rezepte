@@ -3,14 +3,11 @@
    :maxdepth: 3
 
    :Authors: - Olivier Châtelain-Gmür
-             - Yves Wyder
-             - Romeo Micev
-             - Ursin Strauss
 
 
-.. include:: README.rst
-   :start-after: readme-header-marker-do-not-remove
-   :end-before:  readme-next-page-do-not-remove
+.. include:: Guacamole.rst
+#   :start-after: readme-header-marker-do-not-remove
+#   :end-before:  readme-next-page-do-not-remove
 
 .. toctree::
    :caption: Anhänge
