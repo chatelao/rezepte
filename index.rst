@@ -15,4 +15,4 @@
    :maxdepth: 3
 
 .. include:: README.rst
-   :start-after: readme-next-page-do-not-remove
+#   :start-after: readme-next-page-do-not-remove
